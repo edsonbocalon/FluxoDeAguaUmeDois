@@ -6,7 +6,8 @@
 * 1 - Sensor de fluxo de água;
 * 1 - Módulo relé;
 * 1 - Válvula solenoide 1/2 x 1/2 - 110VAC;
-* 1 - Resistor 10Ω;
+* 1 - Resistor 10KΩ;
 * 1 - Protoboard;
 * 1 - Chave Momentânea (PushButton);
-* 10 - Jumpers Macho-Macho e Macho-Fêmea;
+* 6 - Jumpers Macho-Macho;
+* 7 - jumpers Macho-Fêmea;
